@@ -131,7 +131,7 @@
 <div class="row" style="height:100px;">
 
 <div  style="padding-left:700px;padding-top:50px;"></div>
-<a   style="color:black;font-size:15px;font-weight:500;color:gray;" href="http://localhost/hev/ecommerce/index.html">Home </a> &nbsp; &nbsp; 
+<a   style="color:black;font-size:15px;font-weight:500;color:gray;" href="index.html">Home </a> &nbsp; &nbsp; 
 <p style="color:black;font-size:15px;font-weight:500;color:gray;">/</p>
 <a   style="color:black;font-size:15px;font-weight:500;color:gray;" href="">&nbsp;Clothing</a> 
 
